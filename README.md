@@ -1,3 +1,8 @@
+# BUG REPRODUCTION REPO
+Repo to demonstrate HTML entities being encoded with the encodeSpecialCharacters option set to false in Gatsby React Helmet. 
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
